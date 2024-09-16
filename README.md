@@ -25,7 +25,7 @@ I'm looking to collaborate on:
 
 ## 📫 How to Reach Me
 You can reach me via:
-- [LinkedIn](www.linkedin.com/in/laura-matta-462a92119)
+- [LinkedIn](https://www.linkedin.com/in/laura-matta-462a92119/)
 - [Email](mailto:laurac.matta@outlook.com)
 
 ## 😄 Pronouns
