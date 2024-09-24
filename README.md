@@ -5,7 +5,7 @@ I'm @LauraMatta18
 ## 👀 Interests
 I'm interested in:
 - Web development
-- Machine Learning
+- Backend
 - Open source contributions
 - Creative coding projects
 
