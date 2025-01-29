@@ -11,12 +11,11 @@ I'm interested in:
 
 ## 🌱 Currently Learning
 I'm currently learning:
-- Advanced JavaScript, react, python, C##
-- Data Science with Python
+- Advanced JavaScript, react, python, C#
 - Cloud computing and DevOps
 - UI/UX design principles
 
-## 💞️ Looking to Collaborate On
+## 💞️ Looking to collaborate on
 I'm looking to collaborate on:
 - Open source projects
 - Web development and design projects
